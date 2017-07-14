@@ -1,6 +1,6 @@
 # Handy-Highlight
 
-A very handy tool for highlighting the text & having fun - Inspired by [Medium](https://medium.com)!!
+A very handy tool for highlighting the text & then having fun with it - Inspired by [Medium](https://medium.com). Demo below!!
 
 # Quick links
 1. [Usage](#usage)
@@ -34,7 +34,8 @@ A very handy tool for highlighting the text & having fun - Inspired by [Medium](
     import Highlight from 'handy-highlight'
     window.onmouseup = function(){
         Highlight({
-            onclick: function(){ console.log("Clicked the div!!") }
+            onclick: function(){ /*YOUR STUFF HERE*/ },   // is executed when div is clicked
+            text: "<b>Hello, World</b>"   // Ignore this property if you want div's text to be highlighted text
         });
     }
     ```
@@ -61,7 +62,7 @@ options = {
   <dd>Add some extra left to the div.</dd>
 
   <dt>text:</dt>
-  <dd>Text of the div. Ignore this property if you want div's text to be the copied text.</dd>
+  <dd>Text of the div. Ignore this property if you want div's text to be the highlighted text.</dd>
 
   <dt>onclick:</dt>
   <dd>Function to be executed when clicked on the div.</dd>
