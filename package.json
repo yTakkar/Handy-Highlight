@@ -1,0 +1,24 @@
+{
+  "name": "handy-highlight",
+  "version": "1.0.0",
+  "description": "A tiny, useful & handy highlight system which can be used with a simple API!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yTakkar/Handy-Highlight.git"
+  },
+  "keywords": [
+    "handy",
+    "takkar",
+    "highlight"
+  ],
+  "author": "takkar <shtakkar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yTakkar/Handy-Highlight/issues"
+  },
+  "homepage": "https://github.com/yTakkar/Handy-Highlight#readme"
+}
