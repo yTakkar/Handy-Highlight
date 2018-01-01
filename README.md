@@ -1,6 +1,6 @@
 # Handy-Highlight
 
-A very handy tool for highlighting the text & then having fun with it - Inspired by [Medium](https://medium.com). Demo below!!
+A very handy tool for highlighting the text & having fun with it - Inspired by [Medium](https://medium.com). Demo below!!
 
 # Quick links
 1. [Usage](#usage)
