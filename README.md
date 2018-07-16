@@ -41,7 +41,7 @@ A very handy tool for highlighting the text & having fun with it - Inspired by [
     ```
 
 # Demo
-**Visit [this](https://codepen.io/Takkar/pen/qmrpeP) link for the demo!!**
+**Visit [this](https://codesandbox.io/s/6xv0xq3o53) link for the demo!!**
 
 # API
 ```javascript
