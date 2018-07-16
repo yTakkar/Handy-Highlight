@@ -44,6 +44,7 @@ var HandyHighlight = function(options){
 
         ele.onclick = function(){
             settings.onclick();
+            ele.style.display = "none";
         } 
     
     } else if(text == ""){
